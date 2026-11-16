@@ -4,7 +4,7 @@ Projeto de estudo em **Java, JDBC e MySQL**, executado pelo console, para pratic
 
 ## O que este projeto demonstra
 
-- **Desenvolvimento Júnior:** interfaces DAO, implementações JDBC, entidades e separação entre aplicação e persistência.
+- **Desenvolvimento Fullstack:** interfaces DAO, implementações JDBC, entidades e separação entre aplicação e persistência.
 - **SQL e dados relacionais:** consultas com filtros e `INNER JOIN`, inserção, atualização e exclusão com `PreparedStatement`.
 - **Suporte de Sistemas Júnior:** investigação de conexão, driver, estrutura de tabelas, registros inexistentes e restrições de integridade.
 - **Documentação de diagnóstico:** identificação dos pré-requisitos e dos dados necessários para reproduzir cada operação.
